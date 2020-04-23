@@ -7,7 +7,7 @@ Este repositório é voltado para a aprendizagem de SvelteJS.
 Possui os seguintes projetos:
 
 ## svelte-app
-Projeto focado em aprendizagens básicas dos conceitos de SvelteJS
+Projeto focado na aprendizagem dos conceitos e recursos básicos do SvelteJS
 
  - Setup
  - User Input & Data Bidings
@@ -25,4 +25,4 @@ Projeto focado em aprendizagens básicas dos conceitos de SvelteJS
  - Dispatching Custom Events
 
 ## ninjapolls-app
-Projeto de um aplicativo de questionários e votação para efeito de aplicação de conceitos básicos
+Projeto de um aplicativo de questionários e votação para aplicação de conceitos básicos
