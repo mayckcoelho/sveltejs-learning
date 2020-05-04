@@ -26,3 +26,12 @@ Projeto focado na aprendizagem dos conceitos e recursos básicos do SvelteJS
 
 ## ninjapolls-app
 Projeto de um aplicativo de questionários e votação para aplicação de conceitos básicos
+
+ - Custom Components
+ - Forms
+ - Custom Form Validations
+ - Stores
+ - Lifecycle Hooks
+ - Transitions
+ - Animate
+ - Tween
